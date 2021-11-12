@@ -1,8 +1,6 @@
 import turtle 
 import winsound
 
-# winsound.Playsound("sound.wav", windsound.SND_ASYNC)
-
 # wn is short for window
 wn = turtle.Screen()
 wn.title("My First Game by Brandon Learned")
